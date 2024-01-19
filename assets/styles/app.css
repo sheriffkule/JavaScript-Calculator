@@ -4,6 +4,7 @@
 
 html {
   font-family: 'Roboto', open-sans;
+  background: #1c1c1d;
 }
 
 body {
@@ -27,7 +28,7 @@ header {
   border: 1px solid #023d6d;
   border-radius: 10px;
   padding: 1rem;
-  color: #023d6d;
+  color: #39709e;
 }
 
 #results {
